@@ -29,5 +29,10 @@ namespace WindowsFormsApp2
 
 
         }
+
+        private void hWindowControl1_HMouseMove(object sender, HalconDotNet.HMouseEventArgs e)
+        {
+            //TEXE
+        }
     }
 }

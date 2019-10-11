@@ -52,6 +52,7 @@
             this.hWindowControl1.Size = new System.Drawing.Size(320, 240);
             this.hWindowControl1.TabIndex = 1;
             this.hWindowControl1.WindowSize = new System.Drawing.Size(320, 240);
+            this.hWindowControl1.HMouseMove += new HalconDotNet.HMouseEventHandler(this.hWindowControl1_HMouseMove);
             // 
             // Form1
             // 
